@@ -2,6 +2,11 @@ package org.example;
 
 import java.util.ArrayList;
 
+/**
+ * В этом домашнем задании ситуации deadlock и др. проблемы не произошли
+ */
+
+
 public class Main {
     public static void main(String[] args) {
 
